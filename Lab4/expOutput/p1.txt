@@ -1,0 +1,4 @@
+Speed of the Car is: 61 
+Gear of the Car is set at: 2 
+Passengers in the Car are: 4 
+Navigator in the Car: 1 

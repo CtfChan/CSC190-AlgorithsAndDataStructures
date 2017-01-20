@@ -1,0 +1,21 @@
+#include "lab4.h"
+
+struct Vehicle * initVehicle(int wheels, char * model, struct vInterface vInt)
+{
+	struct Vehicle * s = (struct Vehicle *)malloc(sizeof(struct Vehicle));
+	s->numWheels = wheels;
+	strcpy(s->model, model);
+	
+	
+	s->vehInt = vInt;
+
+	return s;
+
+
+}
+
+void cleanUpVehicle(struct Vehicle * v)
+{
+	free(v);
+}
+

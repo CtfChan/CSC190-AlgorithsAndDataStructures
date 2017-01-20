@@ -1,0 +1,21 @@
+Car enter time is 10.230000
+Car exit time is 10.340000
+Speed of the Car is: 61 
+Gear of the Car is set at: 2 
+Passengers in the Car are: 4 
+Navigator in the Car: 1 
+
+Car enter time is 11.230000
+Car exit time is 12.340000
+Speed of the Car is: 110 
+Gear of the Car is set at: 4 
+Passengers in the Car are: 2 
+Navigator in the Car: 0 
+
+Car enter time is 1.340000
+Car exit time is 2.320000
+Speed of the Car is: 190 
+Gear of the Car is set at: 5 
+Passengers in the Car are: 1 
+Navigator in the Car: 0 
+
