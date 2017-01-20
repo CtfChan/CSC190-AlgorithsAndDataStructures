@@ -1,0 +1,2 @@
+The first set of bits are set? 1
+The second set of bits are set? 0

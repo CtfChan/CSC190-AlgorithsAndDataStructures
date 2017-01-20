@@ -1,0 +1,6 @@
+#include "lab1.h"
+
+float S(float a, float b)
+{
+    
+}

@@ -1,0 +1,6 @@
+#include "lab1.h"
+
+void simpsonsAdaptiveIntegration(float aOrig, float bOrig, float eps, float minIntSize)
+{
+
+}
